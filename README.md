@@ -47,7 +47,7 @@ PlayStation 2판 **EVE new generation / イブ・ニュージェネレーショ�
 
 ### 메뉴 / 시스템 화면
 
-옵션 화면 및 시스템 메시지를 한국어화했습니다.
+메뉴 및 시스템 메시지를 한국어화했습니다.
 
 <img width="749" height="555" alt="스크린샷 2026-10-04 133324" src="https://github.com/user-attachments/assets/d7336326-bef5-4d67-b85a-2d6414854afe" />
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/54cfda47-291a-4e38-b6ba-e468aa10cbfe" />

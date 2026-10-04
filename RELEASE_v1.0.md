@@ -40,6 +40,8 @@ PlayStation 2 일본판 **EVE new generation / イブ・ニュージェネレー
 
 ## 한글패처 사용 방법
 
+<img width="60%" alt="패쳐_미리보기" src="https://github.com/user-attachments/assets/8c631a6d-b3e4-4f35-9aaa-3d851bfb9009" />
+
 1. 아래 **Assets**에서 v1.0 배포 ZIP을 내려받습니다.
 2. ZIP을 **새 폴더에 전부 압축 해제**합니다. ZIP 내부에서 바로 실행하지 마세요.
 3. **`EVE_NG_KR_Patcher.exe`** 를 실행합니다.

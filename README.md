@@ -72,13 +72,6 @@ PlayStation 2판 **EVE new generation / イブ・ニュージェネレーショ�
 <img width="608" height="454" alt="image" src="https://github.com/user-attachments/assets/1eb1d309-faf7-4cd7-b9ee-5ca18b5e0580" />
 
 
-
-### 이동 / 장소 선택 화면
-
-게임 진행 중 표시되는 이동 및 장소 선택 관련 텍스트를 한국어화했습니다.
-
-<!-- 여기에 이동 / 장소 선택 화면 스크린샷을 추가하세요. -->
-
 ## 다운로드
 
 최신 한국어 패치는 [Releases](https://github.com/Dollars-Archive/eve-new-generation-kr-patch/releases)에서 받을 수 있습니다.

@@ -67,6 +67,10 @@ PlayStation 2판 **EVE new generation / イブ・ニュージェネレーショ�
 
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/bb8ef816-73fd-4abe-8dd5-200d5f496652" />
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/1eb1d309-faf7-4cd7-b9ee-5ca18b5e0580" />
+
+### 이동 / 장소 선택 화면
+게임 진행 중 표시되는 이동 및 장소 선택 관련 텍스트를 한국어화했습니다.
+
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/aae32bff-465d-4b73-a797-b5a3ac6d5b4d" />
 
 ### 이미지 번역

@@ -67,6 +67,8 @@ PlayStation 2판 **EVE new generation / イブ・ニュージェネレーショ�
 
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/bb8ef816-73fd-4abe-8dd5-200d5f496652" />
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/1eb1d309-faf7-4cd7-b9ee-5ca18b5e0580" />
+<img width="612" height="456" alt="image" src="https://github.com/user-attachments/assets/c642826e-9b1f-471c-a198-3b08c6f7df44" />
+
 
 ## 다운로드
 

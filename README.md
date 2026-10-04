@@ -72,7 +72,8 @@ PlayStation 2판 **EVE new generation / イブ・ニュージェネレーショ�
 ### 이미지 번역
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/321527a1-3022-47b2-a101-d8797ce5b878" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6502eb57-0405-45bb-9c57-934dba039314" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/492f451e-e1ef-4836-a38c-61693960afd3" />
+
 
 ## 다운로드
 

@@ -58,7 +58,6 @@ PlayStation 2판 **EVE new generation / イブ・ニュージェネレーショ�
 스토리 대사 및 이벤트 텍스트를 한국어화했습니다.
 
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/0a5bf74f-4d3c-4131-ad9c-f8a3eb94586f" />
-<img width="80%" alt="image" src="https://github.com/user-attachments/assets/2e2ccf19-7d71-4c78-84f2-69fe4a8aec46" />
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/c0a60ed7-3456-4588-8ef1-6bc1df1f5bad" />
 
 ### 조사·행동 선택 메뉴
@@ -75,6 +74,7 @@ PlayStation 2판 **EVE new generation / イブ・ニュージェネレーショ�
 
 ### 이미지 번역
 
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/2e2ccf19-7d71-4c78-84f2-69fe4a8aec46" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/321527a1-3022-47b2-a101-d8797ce5b878" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/492f451e-e1ef-4836-a38c-61693960afd3" />
 

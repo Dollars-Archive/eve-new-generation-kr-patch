@@ -49,19 +49,29 @@ PlayStation 2판 **EVE new generation / イブ・ニュージェネレーショ�
 
 옵션 화면 및 시스템 메시지를 한국어화했습니다.
 
-<!-- 여기에 메뉴 / 시스템 화면 스크린샷을 추가하세요. -->
+<img width="756" height="564" alt="image" src="https://github.com/user-attachments/assets/68479871-1b75-40fa-968f-a3939b3d2e88" />
+<img width="752" height="564" alt="image" src="https://github.com/user-attachments/assets/54cfda47-291a-4e38-b6ba-e468aa10cbfe" />
+<img width="752" height="564" alt="image" src="https://github.com/user-attachments/assets/31cdc2b9-48d5-464c-8d5c-a876df13777d" />
+
 
 ### 대사 / 이벤트
 
 스토리 대사 및 이벤트 텍스트를 한국어화했습니다.
 
-<!-- 여기에 대사 / 이벤트 스크린샷을 추가하세요. -->
+<img width="753" height="560" alt="image" src="https://github.com/user-attachments/assets/0a5bf74f-4d3c-4131-ad9c-f8a3eb94586f" />
+<img width="749" height="557" alt="image" src="https://github.com/user-attachments/assets/2e2ccf19-7d71-4c78-84f2-69fe4a8aec46" />
+<img width="609" height="455" alt="image" src="https://github.com/user-attachments/assets/c0a60ed7-3456-4588-8ef1-6bc1df1f5bad" />
+
+
 
 ### 조사·행동 선택 메뉴
 
 조사, 이동, 대화 등 게임 진행에 사용되는 조사·행동 선택 메뉴를 한국어화했습니다.
 
-<!-- 여기에 조사·행동 선택 메뉴 스크린샷을 추가하세요. -->
+<img width="609" height="456" alt="image" src="https://github.com/user-attachments/assets/bb8ef816-73fd-4abe-8dd5-200d5f496652" />
+<img width="608" height="454" alt="image" src="https://github.com/user-attachments/assets/1eb1d309-faf7-4cd7-b9ee-5ca18b5e0580" />
+
+
 
 ### 이동 / 장소 선택 화면
 

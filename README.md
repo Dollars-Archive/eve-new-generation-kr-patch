@@ -58,17 +58,10 @@ PlayStation 2판 **EVE new generation / イブ・ニュージェネレーショ�
 
 ## 타이틀 한글화
 
-상태: 완료
+<img width="80%" alt="스크린샷 2026-10-04 133324" src="https://github.com/user-attachments/assets/d7336326-bef5-4d67-b85a-2d6414854afe" />
 
 ## 메뉴·UI
 
-상태: 완료
-
-### 메뉴 / 시스템 화면
-
-메뉴 및 시스템 메시지를 한국어화했습니다.
-
-<img width="80%" alt="스크린샷 2026-10-04 133324" src="https://github.com/user-attachments/assets/d7336326-bef5-4d67-b85a-2d6414854afe" />
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/54cfda47-291a-4e38-b6ba-e468aa10cbfe" />
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/31cdc2b9-48d5-464c-8d5c-a876df13777d" />
 
@@ -87,10 +80,6 @@ PlayStation 2판 **EVE new generation / イブ・ニュージェネレーショ�
 
 ## 대사
 
-상태: 완료
-
-### 대사 / 이벤트
-
 스토리 대사 및 이벤트 텍스트를 한국어화했습니다.
 
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/0a5bf74f-4d3c-4131-ad9c-f8a3eb94586f" />
@@ -98,17 +87,14 @@ PlayStation 2판 **EVE new generation / イブ・ニュージェネレーショ�
 
 ## 이미지 번역
 
-상태: 일부
-
-### 이미지 번역
-
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/2e2ccf19-7d71-4c78-84f2-69fe4a8aec46" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/321527a1-3022-47b2-a101-d8797ce5b878" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/492f451e-e1ef-4836-a38c-61693960afd3" />
 
 ## 동영상 자막
 
-상태: 확인 필요
+<img width="1232" height="915" alt="스크린샷 2026-10-05 124230" src="https://github.com/user-attachments/assets/c017609c-8ff0-4978-8402-1eebbe2b44a1" />
+<img width="1223" height="914" alt="스크린샷 2026-10-05 135841" src="https://github.com/user-attachments/assets/f292e69a-6167-48ec-be3d-b9e44e4680f0" />
 
 <!-- kr-patch:scope:v1:end -->
 

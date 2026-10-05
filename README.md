@@ -88,13 +88,13 @@ PlayStation 2판 **EVE new generation / イブ・ニュージェネレーショ�
 ## 이미지 번역
 
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/2e2ccf19-7d71-4c78-84f2-69fe4a8aec46" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/321527a1-3022-47b2-a101-d8797ce5b878" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/492f451e-e1ef-4836-a38c-61693960afd3" />
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/321527a1-3022-47b2-a101-d8797ce5b878" />
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/492f451e-e1ef-4836-a38c-61693960afd3" />
 
 ## 동영상 자막
 
-<img width="1232" height="915" alt="스크린샷 2026-10-05 124230" src="https://github.com/user-attachments/assets/c017609c-8ff0-4978-8402-1eebbe2b44a1" />
-<img width="1223" height="914" alt="스크린샷 2026-10-05 135841" src="https://github.com/user-attachments/assets/f292e69a-6167-48ec-be3d-b9e44e4680f0" />
+<img width="80%" alt="스크린샷 2026-10-05 124230" src="https://github.com/user-attachments/assets/c017609c-8ff0-4978-8402-1eebbe2b44a1" />
+<img width="80%" alt="스크린샷 2026-10-05 135841" src="https://github.com/user-attachments/assets/f292e69a-6167-48ec-be3d-b9e44e4680f0" />
 
 <!-- kr-patch:scope:v1:end -->
 
